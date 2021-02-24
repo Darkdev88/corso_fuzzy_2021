@@ -5,13 +5,11 @@
 ## Corso di logica fuzzy  
 
 
-In questa repository verrà presentata una breve tesina di tutti gli argomenti trattati all' interno del corso ed in particolare: 
-- [x]  introduzione al pensiero formale
+In questa repository verrà presentata una breve tesina di tutti gli argomenti trattati all' interno del corso di logica ed in particolare: 
+- [x]  il ruolo della logica e i diversi tipi di logica studiati
 - [x]  cenni storici 
-- [x]  cenni di programmazione
-- [x]  cenni di python e [jupyter notebooks](https://github.com/jupyter/notebook)
-- [x]  sintassi e semantica in matematica e nei linguaggi formali
-- [x]  logica proposizionale
-- [x]  tavole di verità 
-- [x] logica fuzzy e logica polivalente
-- funzioni  di verità 
+- [x]  implementazione dei connettivi logici come funzioni in python
+- [x]  funzioni
+- [x]  implementazione di una tabella di verità di una formula sia nella logica classica che nella logica di Lukasiewicz
+- [x]  stampa della seguente formula
+
