@@ -5,7 +5,7 @@
 ## Corso di logica fuzzy  
 
 
-In questa repository verranno raccolti i notebook sviluppati durante il corso. Il corso di logica fuzzy tratterà i seguenti  argomenti: 
+In questa repository verrà presentata una breve tesina di tutti gli argomenti trattati all' interno del corso ed in particolare: 
 - [x]  introduzione al pensiero formale
 - [x]  cenni storici 
 - [x]  cenni di programmazione
