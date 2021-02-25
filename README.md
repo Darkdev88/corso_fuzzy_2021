@@ -12,5 +12,5 @@ In questa repository verrà presentata una breve tesina di tutti gli argomenti t
 - [x]  implementazione dei connettivi logici come funzioni in python
 - [x]  funzioni
 - [x]  implementazione di una tabella di verità di una formula sia nella logica classica che nella logica di Lukasiewicz
-- [x]  stampa della seguente formula
+- [x]  stampare le funzioni di verità delle seguenti formule : A or (not A)  not A -> B
 
